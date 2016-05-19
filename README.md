@@ -1,6 +1,19 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+How to load the game
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Download the files located in the GitHub repository:
+https://github.com/lbassetto/Arcade-game.git
+Use a local web server (e.g: HTTP local server) to load the game on Google Chrome
+and start playing.
+
+
+How to play the game
+
+The player should reach the water without colliding with a bug.
+To do so, you need to move the player by using the up, down, left and right keys
+which will move the player accordingly.
+If the player collides with a bug, you lost and the player goes back to his
+initial position.
+If the player reach the water without colliding with a bug, YOU WON!
